@@ -25,4 +25,4 @@ Kunjungi versi online di:
 ## 🧑‍💻 Tentang
 Dibuat oleh **Irvan Hubbie Iswara** sebagai latihan pembuatan CV online.
 
-Email: [irhuis08@domain.com](mailto:irhuis08@domain.com)
+Email: [irhuis08@gmail.com](mailto:irhuis08@gmail.com)
