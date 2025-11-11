@@ -14,13 +14,7 @@ Proyek ini dibuat untuk latihan dasar HTML dan SEO, termasuk:
 cv-single-page.html
 favicon.ico
 README.md
-LICENSE
-.gitignore
 ```
-
-## 🌐 Demo (GitHub Pages)
-Kunjungi versi online di:
-👉 [https://VanSite450.github.io/cv-single-page/](https://VanSite450.github.io/cv-single-page/)
 
 ## 🧑‍💻 Tentang
 Dibuat oleh **Irvan Hubbie Iswara** sebagai latihan pembuatan CV online.
